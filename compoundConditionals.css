@@ -70,3 +70,6 @@ button:hover {
     text-align: center;
     color: #0080ff;
 }
+
+.success, 
+.failure {display: none;}
